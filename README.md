@@ -14,7 +14,7 @@ work as expected.
 
 一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一
 
-后者的使用请直接输化学式，下角标请直接输数字，离子符号等请忽略，括号暂时不支持。
+后者的使用请直接输化学式，下角标请直接输数字（1位数），离子符号等请忽略，括号暂时不支持。
 
-to use the last one,input the chemical formula straintly.input just numbers for subscript and don't try
+to use the last one,input the chemical formula straintly.input just numbers（） for subscript and don't try
 to input "+"or"-"or sth else.the support to "()" is inexist now.

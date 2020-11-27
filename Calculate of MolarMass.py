@@ -51,7 +51,7 @@ def calu():
 if __name__ =="__main__":
     while input("input enter to contiune,other to exit")=="":
         try:
-            print("calculate finished.\n",calc())
+            print("calculate finished.\n",calu())
         except KeyError:
             print("input error!")
             break
